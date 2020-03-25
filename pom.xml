@@ -8,6 +8,15 @@
     <version>1.0</version>
     <packaging>jar</packaging>
     <description>A very simple unit testing framework written in Java.</description>
+    <developers>
+        <developer>
+            <id>jeszy</id>
+            <name>Péter Jeszenszky</name>
+            <email>jeszenszky.peter@inf.unideb.hu</email>
+            <organization>Faculty of Informatics, University of Debrecen</organization>
+            <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
+        </developer>
+    </developers>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
